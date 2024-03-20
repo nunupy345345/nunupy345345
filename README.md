@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there I'm Airi Oa 👋
+<p align="left">
+[![nunupy345345's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunupy345345&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![nunupy345345's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunupy345345&theme=onedark&show_icons=true)]
+(https://github.com/anuraghazra/github-readme-stats)
+  </p>
 <!--
 **nunupy345345/nunupy345345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
